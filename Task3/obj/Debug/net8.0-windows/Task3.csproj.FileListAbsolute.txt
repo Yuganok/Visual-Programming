@@ -1,0 +1,17 @@
+C:\Users\yugan\source\repos\Task3\Task3\bin\Debug\net8.0-windows\Task3.exe
+C:\Users\yugan\source\repos\Task3\Task3\bin\Debug\net8.0-windows\Task3.deps.json
+C:\Users\yugan\source\repos\Task3\Task3\bin\Debug\net8.0-windows\Task3.runtimeconfig.json
+C:\Users\yugan\source\repos\Task3\Task3\bin\Debug\net8.0-windows\Task3.dll
+C:\Users\yugan\source\repos\Task3\Task3\bin\Debug\net8.0-windows\Task3.pdb
+C:\Users\yugan\source\repos\Task3\Task3\obj\Debug\net8.0-windows\Task3.Form1.resources
+C:\Users\yugan\source\repos\Task3\Task3\obj\Debug\net8.0-windows\Task3.Properties.Resources.resources
+C:\Users\yugan\source\repos\Task3\Task3\obj\Debug\net8.0-windows\Task3.csproj.GenerateResource.cache
+C:\Users\yugan\source\repos\Task3\Task3\obj\Debug\net8.0-windows\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yugan\source\repos\Task3\Task3\obj\Debug\net8.0-windows\Task3.AssemblyInfoInputs.cache
+C:\Users\yugan\source\repos\Task3\Task3\obj\Debug\net8.0-windows\Task3.AssemblyInfo.cs
+C:\Users\yugan\source\repos\Task3\Task3\obj\Debug\net8.0-windows\Task3.csproj.CoreCompileInputs.cache
+C:\Users\yugan\source\repos\Task3\Task3\obj\Debug\net8.0-windows\Task3.dll
+C:\Users\yugan\source\repos\Task3\Task3\obj\Debug\net8.0-windows\refint\Task3.dll
+C:\Users\yugan\source\repos\Task3\Task3\obj\Debug\net8.0-windows\Task3.pdb
+C:\Users\yugan\source\repos\Task3\Task3\obj\Debug\net8.0-windows\Task3.genruntimeconfig.cache
+C:\Users\yugan\source\repos\Task3\Task3\obj\Debug\net8.0-windows\ref\Task3.dll
